@@ -24,7 +24,7 @@ function Story() {
 
                                         <img src={require('../../assets/images/icons/separator.svg').default} alt='mySvgImage' />
                                     </div>
-                                    <h2>Every Flavor Tells a Story</h2>
+                                    <h2>Capital Hill's One & Only, The Fainting Goat!</h2>
                                     <div className="text">Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.</div>
                                 </div>
                                 <div className="booking-info">

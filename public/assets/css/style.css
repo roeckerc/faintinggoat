@@ -1092,7 +1092,7 @@ body.visible-sidebar{
   overflow-y:auto;
   z-index: 99999;
   opacity: 0;
-  background:var(--color-two) url(../images/background/pattern-7.png) center top repeat;
+  background:var(--color-two) url(../images/background/pattern-7-fg.png) center top repeat;
   visibility: hidden;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -1131,7 +1131,7 @@ body.visible-sidebar{
 
 .info-bar .inner-box{
   position:relative;
-  background:var(--color-two) url(../images/background/pattern-7.png) center top repeat;
+  background:var(--color-two) url(../images/background/pattern-7-fg.png) center top repeat;
   padding-top: var(--padding-top-100);
   padding-bottom: var(--padding-bottom-50);
   padding-left: var(--padding-left-30);
@@ -1809,7 +1809,7 @@ body.visible-sidebar{
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
   transition: all 500ms ease;
-  background: url(../images/background/pattern-8.svg) center repeat;
+  background: url(../images/background/pattern-8-fg.svg) center repeat;
 }
 
 .offer-block .inner-box:hover .image:before{
@@ -2038,7 +2038,7 @@ body.visible-sidebar{
   width: 140px;
   top: 0;
   bottom: 0;
-  background: url(../images/background/pattern-8.svg) center repeat;
+  background: url(../images/background/pattern-8-fg.svg) center repeat;
 }
 
 /*** 
@@ -2474,7 +2474,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center repeat;
+  background: url(../images/background/pattern-9-fg.svg) center repeat;
 }
 
 .special-offer .outer-container:after{
@@ -2484,7 +2484,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center repeat;
+  background: url(../images/background/pattern-9-fg.svg) center repeat;
 }
 
 .special-offer .title-box{
@@ -2915,7 +2915,7 @@ body.visible-sidebar{
   position: relative;
   padding: 0 0;
   text-align: center;
-  background: url(../images/background/pattern-2.png) left top repeat;
+  background: url(../images/background/pattern-2-fg.png) left top repeat;
 }
 
 .reserve-section .info-col .img-layer{
@@ -3734,7 +3734,7 @@ body.visible-sidebar{
   top: 0;
   width: 100%;
   height: 18px;
-  background: url(../images/background/pattern-10.svg) left top repeat;
+  background: url(../images/background/pattern-10-fg.svg) left top repeat;
 }
 
 .intro-section .fact-counter .fact-block{
@@ -4042,7 +4042,7 @@ body.visible-sidebar{
   margin: 0 auto;
   padding-top: var(--padding-top-100);
   padding-bottom: var(--padding-bottom-90);
-  background:var(--color-five) url(../images/background/pattern-4.png) center top repeat;
+  background:var(--color-five) url(../images/background/pattern-4-fg.png) center top repeat;
 }
 
 .main-footer .info-col .content{
@@ -4058,7 +4058,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center repeat;
+  background: url(../images/background/pattern-9-fg.svg) center repeat;
 }
 
 .main-footer .info-col .inner:after{
@@ -4068,7 +4068,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center repeat;
+  background: url(../images/background/pattern-9-fg.svg) center repeat;
 }
 
 .main-footer .info-col .logo{
@@ -4767,7 +4767,7 @@ body.visible-sidebar{
   right: 0;
   top: -10px;
   bottom: 90px;
-  background: url(../images/background/pattern-8.svg) center top no-repeat;
+  background: url(../images/background/pattern-8-fg.svg) center top no-repeat;
 }
 
 .services-section .s-block{
@@ -5360,7 +5360,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center top repeat;
+  background: url(../images/background/pattern-9-fg.svg) center top repeat;
 }
 
 .menu-one.alternate .image-col .image:before{
@@ -5882,7 +5882,7 @@ body.visible-sidebar{
   left: 15px;
   padding-left: var(--padding-left-25);
   padding-right: var(--padding-right-25);
-  background: url(../images/background/pattern-5.png) left top repeat;
+  background: url(../images/background/pattern-5-fg.png) left top repeat;
   background-color: var(--color-five);
   padding-top: var(--padding-top-30);
   padding-bottom: var(--padding-bottom-50);
@@ -5900,7 +5900,7 @@ body.visible-sidebar{
   top: 0;
   width: 15px;
   height: 100%;
-  background: url(../images/background/pattern-9.svg) center top repeat;
+  background: url(../images/background/pattern-9-fg.svg) center top repeat;
 }
 
 .featured-section.alternate .text-col .inner:before{
@@ -6143,7 +6143,7 @@ body.visible-sidebar{
   position: relative;
   padding: 0 0;
   text-align: center;
-  background: url(../images/background/pattern-2.png) left top repeat;
+  background: url(../images/background/pattern-2-fg.png) left top repeat;
   background-color: var(--color-five);
 }
 
@@ -6990,7 +6990,7 @@ body.visible-sidebar{
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
   transition: all 500ms ease;
-  background: url(../images/background/pattern-8.svg) center repeat;
+  background: url(../images/background/pattern-8-fg.svg) center repeat;
 }
 
 
